@@ -1,0 +1,31 @@
+{
+  "name": "checkout-team-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.2.5",
+    "formik": "^2.2.6",
+    "next": "10.0.6",
+    "next-images": "^1.7.0",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^17.0.1",
+    "uuid": "^8.3.2",
+    "webpack": "^5.22.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.28",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
+    "prettier": "2.2.1",
+    "typescript": "^4.1.5"
+  }
+}

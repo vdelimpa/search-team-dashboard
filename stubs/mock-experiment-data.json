@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Experiment 1",
+    "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+    "category": "Mob",
+    "successDescription": "lorem ipsum",
+    "createdOn": "Tue Mar 23 2021",
+    "status": "Suggested",
+    "vote": 0
+  },
+  {
+    "name": "Experiment 2",
+    "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d2",
+    "category": "Testing",
+    "successDescription": "lorem ipsum",
+    "createdOn": "Wed Mar 24 2021",
+    "status": "Active",
+    "vote": 0
+  },
+  {
+    "name": "Experiment 3",
+    "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d3",
+    "category": "Other",
+    "successDescription": "lorem ipsum",
+    "createdOn": "Tues Feb 1 2021",
+    "status": "Adopted",
+    "vote": 0
+  },
+  {
+    "name": "Experiment 4",
+    "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d4",
+    "category": "Other",
+    "successDescription": "lorem ipsum",
+    "createdOn": "Tue Mar 23 2021",
+    "status": "Rejected",
+    "vote": 0
+  }
+]

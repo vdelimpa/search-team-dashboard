@@ -1,0 +1,1 @@
+export { VoteBadge } from "./VoteBadge";
